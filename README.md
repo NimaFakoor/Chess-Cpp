@@ -7,8 +7,10 @@ Chess Console Game in Cpp
 
 
 use alphabet and number to move and coordinate the chess pieces.
+
 example: 
-  white player->e2 e4 
+    
+    white player->e2 e4 
 
 
 ==========  
