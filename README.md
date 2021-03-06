@@ -19,7 +19,7 @@ example:
 ###  compiled and example:
 
 
-                a   b   c   d   e   f   g   h
+                  a   b   c   d   e   f   g   h
                 ┌───┬───┬───┬───┬───┬───┬───┬───┐  
               1 │ R │ N │ B │ Q │ K │ B │ N │ R │   
                 ├───┼───┼───┼───┼───┼───┼───┼───┤       
@@ -37,8 +37,7 @@ example:
                 ├───┼───┼───┼───┼───┼───┼───┼───┤            
               8 │ r │ n │ b │ q │ k │ b │ n │ r │        
                 └───┴───┴───┴───┴───┴───┴───┴───┘   
-                
-                a   b   c   d   e   f   g   h                                                                                                                                     
+                  a   b   c   d   e   f   g   h                                                                                                                                     
                 
                 white player->e2 e4                                        
 
