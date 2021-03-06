@@ -1,15 +1,22 @@
 # Chess-Cpp
 Chess Console Game in Cpp
 
+==========  
+
+### compile and use: 
+
 
 use alphabet and number to move and coordinate the chess pieces.
 
+
+==========  
 
 example:
 
 ## white player->e2 e4 
 
 
+==========  
 
 
 ###  compiled and example:
@@ -42,4 +49,10 @@ example:
 
 
 
-## made with <3 or *^*^* and maintained by @NimaFakoor
+
+==========  
+
+
+
+
+## made with <3 or "*^*^*" and maintained by @NimaFakoor
